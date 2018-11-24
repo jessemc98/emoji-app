@@ -1,0 +1,1 @@
+collect analytics data by listening to mb output from ui/logic services and send off to 3rd party
